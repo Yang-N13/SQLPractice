@@ -2,7 +2,7 @@
 【个人练习记录】MySQL 经典练习 50 题
 
 #### 🔗Link
-https://blog.csdn.net/GodSuzzZ/article/details/106930311
+https://blog.csdn.net/GodSuzzZ/article/details/106930311  
 https://www.jianshu.com/p/476b52ee4f1b
 
 #### 🖊Note
