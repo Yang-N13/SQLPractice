@@ -1,5 +1,4 @@
 #### Topic: SQLPractice
-【个人练习记录】MySQL 经典练习 50 题
 
 #### 🔗Link
 https://blog.csdn.net/GodSuzzZ/article/details/106930311  
